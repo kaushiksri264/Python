@@ -1,3 +1,8 @@
 scikit-learn
 pandas
 ipykernel  
+numpy
+chardet
+lxml
+matplotlib
+seaborn
